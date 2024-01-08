@@ -15,7 +15,7 @@
 <!-- DB stuff -->
 
 <!-- <img class="logo" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> -->
-<img class="logo" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img class="logo" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 <img class="logo" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <!-- Python stuff -->
